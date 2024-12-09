@@ -1,2 +1,2 @@
 # LibraTUI
-A TUI frontend for Liba
+A TUI frontend for Libra
